@@ -49,6 +49,3 @@ var quickSort = function(array, left, right){
   //finaly we return the sorted array
   return array;
 };
-
-
-console.log(quickSort([3,5,6,2,1,4,8,9,10,7]))
